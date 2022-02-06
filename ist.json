@@ -8,6 +8,21 @@
       "description": "Beach costumes for Ino",
       "game_version": "0.16",
       "file_name": "beach.zip"
+    },
+    {
+
+      "id": "stockings",
+
+      "name": "Stockings",
+
+      "version": "1.0",
+
+      "description": "Stockings for Ino",
+
+      "game_version": "0.16",
+
+      "file_name": "stockings.zip"
+
     }
   ]
 }
