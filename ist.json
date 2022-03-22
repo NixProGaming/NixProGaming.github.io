@@ -23,6 +23,21 @@
 
       "file_name": "stockings.zip"
 
+    },
+    {
+
+      "id": "gallery_unlocker",
+
+      "name": "Gallery unlocker",
+
+      "version": "1.0",
+
+      "description": "Unlock all gallery(even from mods)",
+
+      "game_version": "all",
+
+      "file_name": "gallery_unlocker.zip"
+
     }
   ]
 }
