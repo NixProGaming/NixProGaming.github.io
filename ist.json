@@ -5,7 +5,7 @@
       "id": "beach_costumes",
       "name": "Beach costumes",
       "version": "1.0",
-      "description": "Beach costumes for Ino",
+      "description": "Beach costumes for Ino\n{image_url=https://nixprogaming.github.io/beach_preview.png}",
       "game_version": "0.16",
       "file_name": "beach.zip"
     },
