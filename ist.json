@@ -41,12 +41,18 @@
     },
     {
 
-    "id": "ois",
-    "name": "Old Ino sex",
-    "version": "0.1",
-    "description": "Ino sex on the grass (from old versions)\n{image_url=https://nixprogaming.github.io/ois.png}",
-    "game_version": "all",
-    "author": "Nix",
-    "merge_folders": ["merge"]
-}  ]
+      "id": "ois",
+
+      "name": "Old Ino sex",
+
+      "version": "1.0",
+
+      "description": "Ino sex on the grass (from old versions)\n{image_url=https://nixprogaming.github.io/ois.png}",
+
+      "game_version": "all",
+
+      "file_name": "ois.zip"
+
+    }
+]
 }
