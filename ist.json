@@ -56,9 +56,9 @@
     },
     {
 
-      "id": "nude",
+      "id": "secret",
 
-      "name": "Nude mod",
+      "name": "Secret mod",
 
       "version": "1.0",
 
@@ -66,7 +66,7 @@
 
       "game_version": "0.17.2",
 
-      "file_name": "nude.zip"
+      "file_name": "secret.zip"
 
     }
 ]
