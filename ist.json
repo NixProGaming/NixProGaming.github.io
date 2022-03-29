@@ -53,6 +53,22 @@
 
       "file_name": "ois.zip"
 
-    }
+    },
+    {
+
+      "id": "secret",
+
+      "name": "Secret mod",
+
+      "version": "1.0",
+
+      "description": "All girls is naked :3",
+
+      "game_version": "0.17.2",
+
+      "file_name": "secret.zip"
+
+    
+    
 ]
 }
